@@ -1,3 +1,6 @@
+## 1.3.1
+Upgrade google play location service to `21.0.1`
+
 ## 1.3.0
 
 * [[#1](https://github.com/Dev-hwang/flutter_activity_recognition/pull/1)] Bump Android ext.kotlin_version to 1.5.31.
